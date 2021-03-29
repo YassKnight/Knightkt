@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">骑士</string>
+    <string name="app_name">Knight</string>
+
 
     <!-- 启动页 -->
     <string name="splash_title">AgileDevKt测试工程</string>
@@ -8,5 +9,4 @@
     <string name="splash_check_permission_confirm">已确认</string>
     <string name="splash_check_permission_unconfirmed">再次确认</string>
     <string name="splash_check_permission_cancel">请在设置中打开权限后重启应用</string>
-
 </resources>
