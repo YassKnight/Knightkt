@@ -8,6 +8,7 @@ import androidx.annotation.StringRes
 import com.knight.knightkt.R
 import com.lodz.android.corekt.anko.bindView
 import com.lodz.android.pandora.widget.dialog.BaseDialog
+
 /**
  * @ProjectName : KnightKt
  * @Author : Yangjw

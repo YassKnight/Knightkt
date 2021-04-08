@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/home"
-        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
         android:title="@string/menu_home" />
     <item
-        android:id="@+id/roadBook"
-        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/menu_roadBook"
+        android:icon="@drawable/ic_roadbook"
         android:title="@string/menu_roadBook" />
     <item
-        android:id="@+id/map"
+        android:id="@+id/menu_ride"
         android:icon="@mipmap/ic_launcher"
-        android:title="@string/menu_map" />
+        android:title="@string/menu_ride" />
     <item
-        android:id="@+id/mine"
-        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/menu_mine"
+        android:icon="@drawable/ic_user"
         android:title="@string/menu_mine" />
 </menu>

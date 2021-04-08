@@ -19,4 +19,5 @@
     <string name="menu_roadBook">路书</string>
     <string name="menu_map">地图</string>
     <string name="menu_mine">我的</string>
+    <string name="menu_ride">骑行</string>
 </resources>

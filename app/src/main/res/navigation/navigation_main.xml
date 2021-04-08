@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_main"
+    app:startDestination="@id/menu_home">
+    <fragment
+        android:id="@+id/menu_home"
+        android:name="com.knight.knightkt.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/menu_roadBook"
+        android:name="com.knight.knightkt.ui.roadBook.RoadBookFragment"
+        android:label="@string/menu_roadBook"
+        tools:layout="@layout/fragment_road_book" />
+    <fragment
+        android:id="@+id/menu_ride"
+        android:name="com.knight.knightkt.ui.ride.RideFragment"
+        android:label="@string/menu_ride"
+        tools:layout="@layout/fragment_ride" />
+    <fragment
+        android:id="@+id/menu_mine"
+        android:name="com.knight.knightkt.ui.user.UserFragment"
+        android:label="@string/menu_mine"
+        tools:layout="@layout/fragment_user" />
+
+
+</navigation>
